@@ -1,4 +1,8 @@
-# Synchronized Codepan v2
+# JavaScript教學互動平台
+
+## 特色
+ - JavaScript/Console/HTML可立即對應、所視即所得
+ - 透過網址立即分享、現場廣播教師示範程式碼
 
 ## Improvements
  -	Merge the servers
