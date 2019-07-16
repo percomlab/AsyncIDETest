@@ -11,12 +11,12 @@
  - 介面中文化
  - 區分老師(/teacher)/學生介面 
 
-## require
+## Dependency
 
 - Node 
 - Yarn
 
-## start
+## Quick Start
 
 ```sh
 # Install project module
